@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32635511/README.md)
 # Reducción de Dimensiones y Detección de Anomalías
 
 **Maestría en Ciencia de Datos**
