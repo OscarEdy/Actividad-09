@@ -6,7 +6,7 @@
 
 Este repositorio contiene la resolución de tres ejercicios sobre reducción de dimensiones y detección de anomalías: un sistema de reconocimiento facial con Eigenfaces (PCA), un recomendador de artículos basado en NMF, y un modelo ensemble para detectar anomalías en series temporales.
 
-**Notebook de Google Colab:** [`Eigenfaces_NMF_Anomalias.ipynb`](./Eigenfaces_NMF_Anomalias.ipynb)
+**Notebook de Google Colab: [Proyecto_ML_Colab.ipynb](./Proyecto_ML_Colab.ipynb)
 
 ---
 
